@@ -1,0 +1,22 @@
+@charset "utf-8";
+html{font-size: 35.8px;}
+body{margin: 0;padding: 0;font: 12px/1.5 helvetica,arial,"Microsoft YaHei",\5b8b\4f53;}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,button,select{font-size:100%}
+table,td,tr,th{font-size: 12px;}
+ol,ul {list-style: none;}
+li{list-style-type: none;}
+img{vertical-align: top;border: 0;max-width: 100%;height: auto;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: normal;}
+address,cite,code,em,th,i,var{font-weight: normal;font-style: normal;}
+.cleardfix{*zoom:1}
+.cleardfix::after{display: block;overflow: hidden;clear: both;height: 0;visibility: hidden;}
+a:link,a:visited{
+    color: #000;
+  text-decoration: none;
+}
+hr {height: .02rem;margin: .1rem 0;border: medium none;border-top: .02rem solid #cacaca;}
+
+input{
+  outline: 0;
+  outline: none;
+}
